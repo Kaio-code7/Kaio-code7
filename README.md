@@ -247,6 +247,3 @@ kaio@system:~$ echo "keep building."
 </div>
 ```
 
-**Para ficar realmente pronto**, só falta substituir `SEU-PROJETO-1` e `SEU-PROJETO-2` pelos nomes dos seus repositórios. O restante já está configurado para `Kaio-code7`, com a identidade visual aparecendo como **KAIO**.
-
-Também mantive a foto de perfil do **Choso** fora do README — assim ela funciona como o avatar do perfil, enquanto o README mantém uma estética própria de interface futurista.
